@@ -1,5 +1,5 @@
-**to be converted to html file**
-### computing HBL
+
+### Computing HBL
 
 completed/date
 - Microsoft Imagine Cup Junior submission
