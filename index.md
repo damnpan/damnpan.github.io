@@ -3,7 +3,7 @@
 
 completed/date
 - Microsoft Imagine Cup Junior submission
-- DataCamp [Data Science for Everyone](images/cert1.pdf)
+- DataCamp [Data Science for Everyone](images/Data Science for everyone.pdf)
 
 in progress
 - messing around with markdown
