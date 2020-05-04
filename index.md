@@ -1,17 +1,16 @@
 
 ### Computing HBL
 
-completed/date
-- Microsoft Imagine Cup Junior submission
-- DataCamp [Data Science for Everyone](images/cert1.png)
-- #MajulahGCP: [Google Cloud Essentials](https://run.qwiklabs.com/public_profiles/93cfb203-22a8-4541-a7b2-845cce712ccd)
+####completed/date
+- Microsoft Imagine Cup Junior submission (final edits in progress)
+- DataCamp [Data Science for Everyone](images/cert1.png)/22.04
+- #MajulahGCP: [Google Cloud Essentials](https://run.qwiklabs.com/public_profiles/93cfb203-22a8-4541-a7b2-845cce712ccd)/18.04
 
-in progress
+####in progress
 - messing around with markdown
-- CS50: Introduction to Computer Science
-- #MajulahGCP
+- [CS50: Introduction to Computer Science]
 
-to start on:
+####to start on:
 - brush up on HTML and CSS
 - data sorting in python
 - data science and machie learning
