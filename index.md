@@ -1,4 +1,4 @@
-mkdocs.yml
+
 ### Computing HBL
 
 #### completed/date
@@ -8,7 +8,7 @@ mkdocs.yml
 
 #### in progress
 - messing around with markdown
-- [CS50: Introduction to Computer Science]
+- [CS50: Introduction to Computer Science]({{< relref readme.md" >}})
 
 #### to start on:
 - brush up on HTML and CSS
