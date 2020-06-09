@@ -8,7 +8,7 @@
 
 #### in progress
 - messing around with markdown
-- <a href = page.md>CS50: Introduction to Computer Science</a>
+- <a href = page.html>CS50: Introduction to Computer Science</a>
 
 #### to start on:
 - brush up on HTML and CSS
