@@ -8,7 +8,7 @@
 
 #### in progress
 - messing around with markdown
-- [CS50: Introduction to Computer Science]<a href = readme.md>
+- CS50: Introduction to Computer Science <a href = readme.md>
 
 #### to start on:
 - brush up on HTML and CSS
